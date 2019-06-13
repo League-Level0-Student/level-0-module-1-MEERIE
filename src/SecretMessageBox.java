@@ -8,13 +8,20 @@ public static void main(String[] args) {
 	if (pin.equals(password)) {
 		JOptionPane.showMessageDialog(null,"you have $" + thingy + " in your account");
 		JOptionPane.showMessageDialog(null,"it seems you have been hacked");
-		JOptionPane.showMessageDialog(null,"pay 100000000000000000000 to ...");
-		JOptionPane.showMessageDialog(null,"go to HELL");
+		JOptionPane.showMessageDialog(null,"pay 100000000000000000000 to restore your account");
+		JOptionPane.showMessageDialog(null,"sorry");
 
 
 
 
 	}
-	else play(https://www.google.com/doodles/halloween-2018);
+	else {
+		JOptionPane.showMessageDialog(null, "INTRUDER");
+		JOptionPane.showMessageDialog(null, "we are reporting u to fortnite in ");
+		JOptionPane.showMessageDialog(null, "3");
+		JOptionPane.showMessageDialog(null, "2");
+		JOptionPane.showMessageDialog(null, "1");
+	}
 }
-}
+		
+	}
